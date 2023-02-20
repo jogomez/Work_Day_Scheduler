@@ -30,9 +30,6 @@ When a user opens the planner, the current day is displayed at the top of the ca
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 
-## How to Contribute
-
-null
 
 ## Tests
 
