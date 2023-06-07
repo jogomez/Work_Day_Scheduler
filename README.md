@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-This is a simple calendar application that allows a user to save events for each hour of the day.
+This is a calendar application that allows a user to save events for each hour of the day.
 
 ## Table of Contents
 
